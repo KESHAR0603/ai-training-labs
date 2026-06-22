@@ -1,14 +1,3 @@
-Here is the completely rewritten, single-page version of your code.
-
-I have taken the entire functional logic of your original labs (including the interactive machine learning model calculations, the sliders, the data lists, and the dynamic debrief text fields) and cleanly wrapped them into **Streamlit tabs**.
-
-This keeps everything on **one single page screen**, making it incredibly simple and smooth for your guide to use without needing to click around the sidebar.
-
-### 💻 The Rewritten Single-Page Code
-
-Copy this code and replace everything in your GitHub file:
-
-```python
 import streamlit as st
 import time
 import json
